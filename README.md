@@ -1,7 +1,12 @@
 # sorting-algorithms
+
 Java sorting Algorithms - Software Engineering Assignment
 
-Team
-Esmaeyluladak: BubbleSort Developer
+## Team
+- Esmaeyluladak: BubbleSort Developer
+- aslioztasci: SelectionSort Developer
+- Mirac18: InsertionSort Developer
+
 ## Notes
 - Bubble, Selection, Insertion, Merge sort algorithms
+- This project demonstrates sorting algorithms in Java
