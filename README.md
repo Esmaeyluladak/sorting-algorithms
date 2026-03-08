@@ -1,5 +1,5 @@
 # sorting-algorithms
-
+This project demonstrates sorting algorithms in Java
 Java sorting Algorithms - Software Engineering Assignment
 
 
