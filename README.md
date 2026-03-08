@@ -10,3 +10,6 @@ Java sorting Algorithms - Software Engineering Assignment
 
 This part was added by team member 3 for the Git workflow assignment.
 
+## Team
+
+- Kisi2: SelectionSort Developer
