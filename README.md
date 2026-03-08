@@ -1,2 +1,3 @@
-# sorting-algorithms
-Java sorting Algorithms - Software Engineering Assignment
+## Team
+
+- Kisi2: SelectionSort Developer
