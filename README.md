@@ -3,13 +3,7 @@
 Java sorting Algorithms - Software Engineering Assignment
 
 
-
-\## Contribution - Member 3
-
-
-
-This part was added by team member 3 for the Git workflow assignment.
-
 ## Team
-
-- Kisi2: SelectionSort Developer
+-Esmaeyluladak: BubbleSort Developer
+-aslioztasci: SelectionSort Developer
+-Mirac18: InsertionSort Developer
